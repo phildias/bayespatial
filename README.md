@@ -28,4 +28,5 @@ The SAR-Error and Spatial Moving Average models are essentially the standard `Mv
 
 The Stan functions are a little harder to adapt, since I'm not sure yet how to access underlying C++ sparse libraries from pystan. So, only the Ord Eigenvalue method is used there for the log determinants.  
 
-Note: This git was originally developed by ljwolf (https://github.com/ljwolf). This is just a copy of his repo. The original is here: https://github.com/ljwolf/bayespatial
+# Note
+This git was originally developed by ljwolf (https://github.com/ljwolf). This is just a copy of his repo. The original is here: https://github.com/ljwolf/bayespatial
